@@ -6,17 +6,14 @@ main: Y
 ---
 
 
-Registration for the GP Summer School 15th to 17th September and for the
-Feature Extraction with GPs workshop, 18th September.
+Registration for the GP Summer School 12th to 15th September.
 
 ### Registration Fees:
 
 Attendee                         | Early Bird Rate | Regular Rate
 ---------------------------------|-----------------|--------------
 Academic                 |  250 |  400
-Academic (workshop only) |   90 |  150
 Industrial Club          |  250 |  400
-Industrial Club (workshop only) |   90 |  150
 Industrial and Other Non-Academic  | 700 |  700
 
 **Early bird registration before 15th July**

@@ -6,7 +6,7 @@ main: Y
 ---
 
 The 2015 Gaussian process summer school will take place in Pam
-Liversidge Building, PLB-D05.
+Liversidge Building, PLB-DS05.
 
 Due to the structure of Pam Liversidge Building, it has to be entered
 from Sir Frederick Mappin Building, which is at the address:

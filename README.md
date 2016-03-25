@@ -1,2 +1,2 @@
-# gpss15
-Gaussian Process Summer School, 2015
+# gpuqss16
+Gaussian Process and Uncertainty Quantification Summer School, 2016

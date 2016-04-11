@@ -23,10 +23,10 @@ conference:
   name: GPSS 2016 - Gaussian Processes and Uncertainty Quantification Summer School
   hosts:
   organizers:
-  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+  - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
   - {name: Richard Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
   - {name: Jeremy Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
-  - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
+  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   name: Gaussian Process and Uncertainty Quantification Summer School
   location: Pam Liversidge Building, PLB-DS05, University of Sheffield, UK

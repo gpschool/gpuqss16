@@ -6,6 +6,11 @@ description: > # this means to ignore newlines until "baseurl:"
   The 2016 Gaussian Process and Uncertainty Quantification Summer School held at the University of Sheffield.
 permalink: "/:categories/:title.html"
 banner: sestri.jpeg
+
+baseurl: "/gpuqss16" # the subpath of your site, e.g. /blog/
+url: "http://gpss.cc" # the base hostname & protocol for your site
+
+conference:
   location: Sheffield, UK
   year: 2016
   month: September
@@ -15,11 +20,6 @@ banner: sestri.jpeg
   - 2016-09-14
   - 2016-09-15
   draft: True # set to True if the programme is draft only.
-
-baseurl: "/gpuqss16" # the subpath of your site, e.g. /blog/
-url: "http://gpss.cc" # the base hostname & protocol for your site
-
-conference:
   name: GPSS 2016 - Gaussian Processes and Uncertainty Quantification Summer School
   hosts:
   organizers:

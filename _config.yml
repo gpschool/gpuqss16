@@ -1,22 +1,26 @@
 # Site settings
 title: Gaussian Process and Uncertainty Quantification Summer School, 2016
+venue: Sheffield, UK
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   The 2016 Gaussian Process and Uncertainty Quantification Summer School held at the University of Sheffield.
+permalink: "/:categories/:title.html"
+banner: sestri.jpeg
+  location: Sheffield, UK
+  year: 2016
+  month: September
+  dates:
+  - 2016-09-12
+  - 2016-09-13
+  - 2016-09-14
+  - 2016-09-15
+  draft: True # set to True if the programme is draft only.
+
 baseurl: "/gpuqss16" # the subpath of your site, e.g. /blog/
 url: "http://gpss.cc" # the base hostname & protocol for your site
-twitter_username: datascienceshef
-github_username:  SheffieldML
-facebook_page: gaussianprocesssummerschool
-analytics:
-  google:
-    tracking_id: UA-62991754-1
-
-youtube:
-  height: 315
-  width: 560
 
 conference:
+  name: GPSS 2016 - Gaussian Processes and Uncertainty Quantification Summer School
   hosts:
   organizers:
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
@@ -38,3 +42,20 @@ conference:
 # Build settings
 markdown: kramdown
 
+
+
+
+twitter_username: datascienceshef
+github_username:  SheffieldML
+facebook_page: gaussianprocesssummerschool
+analytics:
+  google:
+    tracking_id: UA-62991754-1
+
+youtube:
+  height: 315
+  width: 560
+future: true
+
+# Build settings
+markdown: kramdown

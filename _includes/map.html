@@ -1,0 +1,17 @@
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<div id='map'></div>
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoibGF3cmVubmQiLCJhIjoiY2luNmUyN2psMDB2MXdlbTJib3dmM3BsOSJ9.OpJ8Nc0xOGyNKZtAAsLECQ';
+var map = L.mapbox.map('map', 'lawrennd.pnc4gglp')
+    .setView([53.38166, -1.47992], 4);
+</script>
+
+https://api.mapbox.com/v4//page.html?access_token=#17/53.38166/-1.47992

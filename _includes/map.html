@@ -9,9 +9,8 @@
 <body>
 <div id='map'></div>
 <script>
-L.mapbox.accessToken = 'pk.eyJ1IjoibGF3cmVubmQiLCJhIjoiY2luNmUyN2psMDB2MXdlbTJib3dmM3BsOSJ9.OpJ8Nc0xOGyNKZtAAsLECQ';
-var map = L.mapbox.map('map', 'lawrennd.pnc4gglp')
+L.mapbox.accessToken = '{{ site.conference.mapbox.access_token }}';
+var map = L.mapbox.map('map', '{{ site.conference.mapbox.map }}')
     .setView([53.38166, -1.47992], 4);
 </script>
 
-https://api.mapbox.com/v4//page.html?access_token=#17/53.38166/-1.47992

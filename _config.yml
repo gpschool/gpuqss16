@@ -20,6 +20,8 @@ conference:
     map_id: lawrennd.pnc4gglp
     access_token: "pk.eyJ1IjoibGF3cmVubmQiLCJhIjoiY2luNmUyN2psMDB2MXdlbTJib3dmM3BsOSJ9.OpJ8Nc0xOGyNKZtAAsLECQ"
     zoom_level: 17
+    width: 70%
+    height: 500px
   year: 2016
   month: September
   dates:

@@ -15,11 +15,11 @@ conference:
   location: Sheffield, UK
   registration_url: "https://onlineshop.shef.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=8&catid=39&prodid=411"
   mapbox:
-    latitude: 53.38166
-    longitudde: -1.47992
+    latitude: 53.3819
+    longitudde: -1.4793
     map: lawrennd.pnc4gglp
     access_token: pk.eyJ1IjoibGF3cmVubmQiLCJhIjoiY2luNmUyN2psMDB2MXdlbTJib3dmM3BsOSJ9.OpJ8Nc0xOGyNKZtAAsLECQ
-    zoom_level: 9
+    zoom_level: 17
 year: 2016
   month: September
   dates:

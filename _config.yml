@@ -13,7 +13,7 @@ conference:
   room: "PLB-DS05, Pam Liversidge Building"
   venue: University of Sheffield
   location: Sheffield, UK
-  registration_url: "https://onlineshop.shef.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=8&catid=39&prodid=411"
+  registration_url: # to appear "https://onlineshop.shef.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=8&catid=39&prodid=411"
   year: 2016
   month: September
   dates:

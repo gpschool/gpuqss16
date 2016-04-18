@@ -11,6 +11,6 @@
 <script>
 L.mapbox.accessToken = '{{ site.conference.mapbox.access_token }}';
 var map = L.mapbox.map('map', '{{ site.conference.mapbox.map }}')
-    .setView([53.38166, -1.47992], 4);
+    .setView([{{ site.conference.mapbox.latitude }}, {{ site.conference.mapbox.longitude }}], {{ site.conference.mapbox.zoom_level }});
 </script>
 

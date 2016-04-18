@@ -1,8 +1,11 @@
+<iframe width='40%' height='500px' frameborder='0' src='https://a.tiles.mapbox.com/v3/{{ site.conference.mapbox.map_id }}/page.html?secure=1#4/{{ site.conference.mapbox.latitude }}/{{ site.conference.mapbox.longitude }}'></iframe>
 
-<div id='map'></div>
-<script>
-L.mapbox.accessToken = '{{ site.conference.mapbox.access_token }}';
-var map = L.mapbox.map('map', '{{ site.conference.mapbox.map_id }}')
-    .setView([{{ site.conference.mapbox.latitude }}, {{ site.conference.mapbox.longitude }}], {{ site.conference.mapbox.zoom_level }});
-</script>
+
+
+<!-- <div id='map'></div> -->
+<!-- <script> -->
+<!-- L.mapbox.accessToken = '{{ site.conference.mapbox.access_token }}'; -->
+<!-- var map = L.mapbox.map('map', '{{ site.conference.mapbox.map_id }}') -->
+<!--     .setView([{{ site.conference.mapbox.latitude }}, {{ site.conference.mapbox.longitude }}], {{ site.conference.mapbox.zoom_level }}); -->
+<!-- </script> -->
 

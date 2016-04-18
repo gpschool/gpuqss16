@@ -1,15 +1,27 @@
----
-layout: page
----
+<!DOCTYPE html>
+<html>
+  
+  {% include head.html %}
+  
+  {% include map_head.html %}
 
-<article>
-	  
-{% if site.conference.room %}
-The {{site.conference.year }} {{ site.conference.name }} will take place in {{ site.conference.room }}.
-{% endif %}
-
-{{ content }}
-
-{% include map.html %}
-
-</article>
+  <body>
+    <div class="post">
+      
+      <header class="post-header">
+	<h1 class="post-title">{{ page.title }}</h1>
+      </header>
+      
+      <article class="post-content">
+	{% if site.conference.room %}
+	The {{site.conference.year }} {{ site.conference.name }} will take place in {{ site.conference.room }}.
+	{% endif %}
+	
+	{{ content }}
+	
+	{% include map.html %}
+      </article>
+      
+    </div>
+  </body>
+</html>

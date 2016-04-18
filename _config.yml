@@ -33,7 +33,7 @@ conference:
   name: Gaussian Process and Uncertainty Quantification Summer School
   
 map:
-  show: False
+  show: True
   mapbox:
     latitude: 53.3819
     longitude: -1.4793

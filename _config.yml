@@ -14,14 +14,6 @@ conference:
   venue: University of Sheffield
   location: Sheffield, UK
   registration_url: "https://onlineshop.shef.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=8&catid=39&prodid=411"
-  mapbox:
-    latitude: 53.3819
-    longitude: -1.4793
-    map_id: lawrennd.pnc4gglp
-    access_token: "pk.eyJ1IjoibGF3cmVubmQiLCJhIjoiY2luNmUyN2psMDB2MXdlbTJib3dmM3BsOSJ9.OpJ8Nc0xOGyNKZtAAsLECQ"
-    zoom_level: 17
-    width: 100%
-    height: 500px
   year: 2016
   month: September
   dates:
@@ -40,6 +32,15 @@ conference:
   - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   name: Gaussian Process and Uncertainty Quantification Summer School
   
+map:
+  mapbox:
+    latitude: 53.3819
+    longitude: -1.4793
+    map_id: lawrennd.pnc4gglp
+    access_token: "pk.eyJ1IjoibGF3cmVubmQiLCJhIjoiY2luNmUyN2psMDB2MXdlbTJib3dmM3BsOSJ9.OpJ8Nc0xOGyNKZtAAsLECQ"
+    zoom_level: 17
+    width: 100%
+    height: 500px
 
 twitter_username: datascienceshef
 github_username:  SheffieldML

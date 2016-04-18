@@ -15,7 +15,7 @@ Industrial and Other Non-Academic  | 700 |  700
 
 **Early bird registration before 15th July**
 
-Follow the links below to register. Academics and members of our
+Academics and members of our
 industrial club can register at the reduced rate. Other registrants need
 to register at the full cost.
 

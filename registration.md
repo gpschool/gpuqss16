@@ -13,7 +13,7 @@ Academic                 |  250 |  400
 Industrial Club          |  250 |  400
 Industrial and Other Non-Academic  | 700 |  700
 
-\
+<br>
 
 **Registration before 15th July for the Early Bird Rate**
 

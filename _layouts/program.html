@@ -2,15 +2,15 @@
 layout: page
 title: Program
 ---
-	
+
 <article>
 
   {% if site.conference.draft %}
-  <h2>Draft Version</h2>
+  <h4>Draft programme</h4>
   {% endif %}
- 
+
   {{ content }}
-  
+
   <ul>
     {% for post in site.posts reversed %}
     {% if post.layout == "multitrack"%}
@@ -18,7 +18,7 @@ title: Program
     {% endif %}
     {% endfor %}
 
-    
+
     {% for post in site.posts reversed %}
     {% if post.layout == "singletrack" %}
     {% include listsingle.html %}
@@ -27,9 +27,5 @@ title: Program
 
   </ul>
 
-  
+
 </article>
-
-
-	
-	

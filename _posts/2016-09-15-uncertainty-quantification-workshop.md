@@ -1,7 +1,7 @@
 ---
-title:  "Day 4 - Track 2"
-layout: singletrack
-tagline: "Track 2:  Workshop, held jointly with [ENBIS](http://www.enbis.org/activities/events/current/424_ENBIS_16_in_Sheffield/?_ts=1&_ts=1)"
+title:  "Uncertainty Quantification Workshop"
+layout: multitrack
+tagline: "Workshop, held jointly with [ENBIS](http://www.enbis.org/activities/events/current/424_ENBIS_16_in_Sheffield/?_ts=1&_ts=1)"
 show_abstracts: true
 room: "PLB-DS05, Pam Liversidge Building"
 talks:

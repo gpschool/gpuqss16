@@ -13,6 +13,7 @@ title: Confirmed Speakers
 * Michael Gutmann (University of Helsinki)
 * Neil Lawrence (University of Sheffield)
 * Lindsay Lee (University of Leeds)
+* Maren Mahsereci (Max Planck Institute for Intelligent Systems)
 * Jeremy Oakley (University of Sheffield)
 * Mark Strong (University of Sheffield)
 * Tim Sullivan (Free University of Berlin and Zuse Institute

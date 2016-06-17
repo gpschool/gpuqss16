@@ -17,15 +17,15 @@ talks:
   end: "9:45"
 - title:
   abstract:
-  speaker: "Mark Girolami"
-  url: "http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/girolami/"
-  institute: "University of Warwick"
+  speaker: Lindsay Lee
+  url: http://www.see.leeds.ac.uk/people/l.lee
+  institute: University of Leeds
   start: "9:45"
   end: "10:30"
 - title: "Coffee Break"
   start: "10:30"
   end: "11:00"
-- title: TBA
+- title:
   start: "11:00"
   end: "11:45"
   speaker: "Ian Vernon"
@@ -54,7 +54,14 @@ talks:
   start: "14:45"
   end: "15:30"
 - title:
-  speaker: TBA
+  speaker: Maren Mahsereci
+  url: https://ei.is.tuebingen.mpg.de/person/mmahsereci
+  institute: Max Planck Institute for Intelligent Systems
   start: "15:30"
   end: "16:15"
+- title:
+  speaker: Panel and Dicussion
+  start: "16:15"
+  end: "17:00"
+
 ---

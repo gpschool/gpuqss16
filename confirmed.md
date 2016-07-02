@@ -7,7 +7,7 @@ title: Confirmed Speakers
 * Yiannis Andrianakis (London School of Hygiene and Tropical Medicine)
 * Nicolas Durrande  (Ecole des Mines de St Etienne)
 * Alex Forrester (University of Southampton)
-* David Ginsbourger (IDIAP Research Institute)
+* David Ginsbourger (IDIAP Research Institute and University of Bern)
 * Mark Girolami (University of Warwick)
 * Javier Gonzalez (University of Sheffield)
 * Michael Gutmann (University of Helsinki)

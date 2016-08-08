@@ -11,7 +11,7 @@ talks:
 - title:
   abstract:
   speaker: "Jeremy Oakley and Mark Strong"
-  url:
+  url: http://www.enbis.org/activities/events/current/532_ENBIS_16__Sensitivity_Analysis_for_Computer_Models/?_ts=166872&_ts=166872
   institute: "University of Sheffield"
   start: "9:00"
   end: "12:30"

@@ -36,7 +36,12 @@ layout: default
     {% include listtalk.html %}
     {% endfor %}
 
-
+    {% if page.misc %}
+    <br>
+    <br>
+    <br>
+    {{ page.misc_content}}
+    {% endif %}
 
     {% if page.show_abstracts %}
     <br>

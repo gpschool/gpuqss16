@@ -17,9 +17,7 @@ talks:
   end: "9:45"
 - title:
   abstract:
-  speaker: Lindsay Lee
-  url: http://www.see.leeds.ac.uk/people/l.lee
-  institute: University of Leeds
+  speaker: TBA
   start: "9:45"
   end: "10:30"
 - title: "Coffee Break"
@@ -50,9 +48,11 @@ talks:
   start: "14:15"
   end: "14:45"
 - title:
-  speaker: TBA
+  speaker: Lindsay Lee
   start: "14:45"
   end: "15:30"
+  url: http://www.see.leeds.ac.uk/people/l.lee
+  institute: University of Leeds
 - title:
   speaker: Maren Mahsereci
   url: https://ei.is.tuebingen.mpg.de/person/mmahsereci

@@ -15,9 +15,11 @@ talks:
   institute: "University of Southampton"
   start: "9:00"
   end: "9:45"
-- title:
+- title: Kernels for Sensitivity Analysis
   abstract:
-  speaker: TBA
+  speaker: Nicolas Durrande
+  url: "https://sites.google.com/site/nicolasdurrandehomepage/"
+  institute: "Ecole des Mines de St Etienne"
   start: "9:45"
   end: "10:30"
 - title: "Coffee Break"

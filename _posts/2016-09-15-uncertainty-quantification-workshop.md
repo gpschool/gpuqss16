@@ -33,9 +33,8 @@ talks:
   institute: "University of Durham"
 - title:
   abstract:
-  speaker: "Tim Sullivan"
-  url: "http://www.zib.de/members/sullivan"
-  institute: "Zuse Institute Berlin"
+  speaker: " Dario Azzimonti"
+  institute: "University of Bern"
   start: "11:45"
   end: "12:30"
 - title: "Lunch"

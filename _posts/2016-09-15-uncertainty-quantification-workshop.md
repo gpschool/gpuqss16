@@ -21,6 +21,7 @@ talks:
   url: "https://sites.google.com/site/nicolasdurrandehomepage/"
   institute: "Ecole des Mines de St Etienne"
   start: "9:45"
+  slides: durrande_workshop.pdf
   end: "10:30"
 - title: "Coffee Break"
   start: "10:30"
@@ -36,6 +37,7 @@ talks:
   speaker: " Dario Azzimonti"
   institute: "University of Bern"
   start: "11:45"
+  slides: azzimonti.pdf
   end: "12:30"
 - title: "Lunch"
   start: "12:30"
@@ -60,6 +62,7 @@ talks:
   institute: Max Planck Institute for Intelligent Systems
   start: "15:30"
   end: "16:15"
+  slides: mahsereci.pdf
 - title:
   speaker: Panel and Dicussion
   start: "16:15"

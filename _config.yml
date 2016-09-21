@@ -21,7 +21,7 @@ conference:
   - 2016-09-13
   - 2016-09-14
   - 2016-09-15
-  draft: true # set to true if the programme is draft only.
+  draft: False # set to true if the programme is draft only.
   name: GPSS 2016 - Gaussian Processes and Uncertainty Quantification Summer School
   hosts:
   organizers:

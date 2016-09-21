@@ -15,6 +15,7 @@ talks:
   institute: "University of Southampton"
   start: "9:00"
   end: "9:45"
+  youtube: 6qtBOrKs3xE
 - title: Kernels for Sensitivity Analysis
   abstract:
   speaker: Nicolas Durrande
@@ -23,6 +24,7 @@ talks:
   start: "9:45"
   slides: durrande_workshop.pdf
   end: "10:30"
+  youtube: QGfQduHIHR4
 - title: "Coffee Break"
   start: "10:30"
   end: "11:00"
@@ -32,6 +34,7 @@ talks:
   speaker: "Ian Vernon"
   url: "https://www.dur.ac.uk/research/directory/staff/?id=3289"
   institute: "University of Durham"
+  youtube: VYaQLO6PFGw
 - title:
   abstract:
   speaker: " Dario Azzimonti"
@@ -42,11 +45,13 @@ talks:
 - title: "Lunch"
   start: "12:30"
   end: "13:30"
+  youtube: 0njLFsjBEok
 - title:
-  speaker: "Yiannis Andrianakis"
+  speaker: "Ioannis Andrianakis"
   institute:
   start: "13:30"
   end: "14:15"
+  youtube: oeO-TQtx2vo
 - title: "Tea Break"
   start: "14:15"
   end: "14:45"
@@ -56,6 +61,7 @@ talks:
   end: "15:30"
   url: http://www.see.leeds.ac.uk/people/l.lee
   institute: University of Leeds
+  youtube: BpfayuHKTaU
 - title:
   speaker: Maren Mahsereci
   url: https://ei.is.tuebingen.mpg.de/person/mmahsereci
@@ -63,6 +69,7 @@ talks:
   start: "15:30"
   end: "16:15"
   slides: mahsereci.pdf
+  youtube: 7qt4OZv0VUM
 - title:
   speaker: Panel and Dicussion
   start: "16:15"

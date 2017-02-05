@@ -47,7 +47,7 @@ map:
     height: 500px
 
 twitter_username: datascienceshef
-github_username:  SheffieldML
+github_username:  gpschool
 facebook_page: gaussianprocesssummerschool
 analytics:
   google:
@@ -56,5 +56,13 @@ analytics:
 youtube:
   height: 315
   width: 560
+
+github:
+  edit: true
+  repository: gpuqss16
+  
+previous_meeting:
+  name: Previous School
+  url: "http://gpss.cc/gpss15"
 
 future: true

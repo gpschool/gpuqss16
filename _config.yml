@@ -31,6 +31,9 @@ conference:
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   name: Gaussian Process and Uncertainty Quantification Summer School
+  sponsors: 
+  - name: Open Data Science Initiative
+    url: http://odsi.cc
 
 map:
   show: True

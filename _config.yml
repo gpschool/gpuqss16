@@ -32,8 +32,8 @@ conference:
   - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   name: Gaussian Process and Uncertainty Quantification Summer School
   sponsors: 
-  - name: Open Data Science Initiative
-    url: http://odsi.cc
+  - name: The Open Data Science Initiative
+    url: http://opendsi.cc
 
 map:
   show: True

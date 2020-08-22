@@ -35,12 +35,11 @@ conference:
   chairs:
   - type: Organizers
     people:
-    - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
-    - {name: Richard Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
-    - {name: Jeremy Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
-    - {name: Neil Lawrence, url: "http://inverseprobability.com"}
-    - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
-  name: Gaussian Process and Uncertainty Quantification Summer School
+    - {given: Javier, family: Gonzalez, url: "http://javiergonzalezh.github.io/"}
+    - {given: Richard, family: Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
+    - {given:: Jeremy, family: Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
+    - {given: Neil D., family: Lawrence, url: "http://inverseprobability.com"}
+    - {given: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   sponsors: 
   - name: The Open Data Science Initiative
     url: http://opendsi.cc

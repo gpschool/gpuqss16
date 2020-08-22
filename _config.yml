@@ -8,6 +8,12 @@ banner:
 
 baseurl: "/gpuqss16" # the subpath of your site, e.g. /blog/
 url: "http://gpss.cc" # the base hostname & protocol for your site
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: gpss
 
 conference:
   room: "PLB-DS05, Pam Liversidge Building"
@@ -22,14 +28,18 @@ conference:
   - 2016-09-14
   - 2016-09-15
   draft: False # set to true if the programme is draft only.
-  name: GPSS 2016 - Gaussian Processes and Uncertainty Quantification Summer School
+  full_name: Gaussian Processes and Uncertainty Quantification Summer School
+  short_name: GPSS
+  name: Gaussian Process Summer School 
   hosts:
-  organizers:
-  - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
-  - {name: Richard Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
-  - {name: Jeremy Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
-  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
-  - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
+  chairs:
+  - type: Organizers
+    people:
+    - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
+    - {name: Richard Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
+    - {name: Jeremy Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
+    - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+    - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   name: Gaussian Process and Uncertainty Quantification Summer School
   sponsors: 
   - name: The Open Data Science Initiative
@@ -57,7 +67,7 @@ youtube:
   height: 315
   width: 560
 
-github:
+ghub:
   edit: true
   repository: gpuqss16
   

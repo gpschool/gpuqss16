@@ -1,6 +1,6 @@
 ---
-layout: about
-title: 
+layout: home
+title: About 
 ---
 
 The workshops on the final day (Thursday 15 September) are being held jointly with the  [European Network for Business and Industrial Statistics (ENBIS)](http://www.enbis.org/activities/events/current/424_ENBIS_16_in_Sheffield/?_ts=1&_ts=1) conference.

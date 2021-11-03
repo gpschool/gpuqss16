@@ -42,10 +42,10 @@ talks:
   start: "11:45"
   slides: azzimonti.pdf
   end: "12:30"
+  youtube: 0njLFsjBEok
 - title: "Lunch"
   start: "12:30"
   end: "13:30"
-  youtube: 0njLFsjBEok
 - title:
   speaker: "Ioannis Andrianakis"
   institute:

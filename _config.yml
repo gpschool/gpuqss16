@@ -37,7 +37,7 @@ conference:
     people:
     - {given: Javier, family: Gonzalez, url: "http://javiergonzalezh.github.io/"}
     - {given: Richard, family: Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
-    - {given:: Jeremy, family: Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
+    - {given: Jeremy, family: Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
     - {given: Neil D., family: Lawrence, url: "http://inverseprobability.com"}
     - {given: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   sponsors: 

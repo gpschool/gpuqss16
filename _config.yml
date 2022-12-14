@@ -7,7 +7,7 @@ permalink: "/:categories/:title.html"
 banner:
 
 baseurl: "/gpuqss16" # the subpath of your site, e.g. /blog/
-url: "http://gpss.cc" # the base hostname & protocol for your site
+url: "https://gpss.cc" # the base hostname & protocol for your site
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
@@ -35,14 +35,14 @@ conference:
   chairs:
   - type: Organizers
     people:
-    - {given: Javier, family: Gonzalez, url: "http://javiergonzalezh.github.io/"}
-    - {given: Richard, family: Wilkinson, url: "http://r-wilkinson.staff.shef.ac.uk/"}
-    - {given: Jeremy, family: Oakley, url: "http://www.jeremy-oakley.staff.shef.ac.uk/"}
-    - {given: Neil D., family: Lawrence, url: "http://inverseprobability.com"}
-    - {given: Sheffield ML Group, url: "http://sheffieldml.github.io"}
+    - {given: Javier, family: Gonzalez, url: "https://javiergonzalezh.github.io/"}
+    - {given: Richard, family: Wilkinson, url: "https://r-wilkinson.staff.shef.ac.uk/"}
+    - {given: Jeremy, family: Oakley, url: "https://www.jeremy-oakley.staff.shef.ac.uk/"}
+    - {given: Neil D., family: Lawrence, url: "https://inverseprobability.com"}
+    - {given: Sheffield ML Group, url: "https://sheffieldml.github.io"}
   sponsors: 
   - name: The Open Data Science Initiative
-    url: http://opendsi.cc
+    url: https://opendsi.cc
 
 map:
   show: True
@@ -72,6 +72,6 @@ ghub:
   
 previous_meeting:
   name: Previous School
-  url: "http://gpss.cc/gpss15"
+  url: "https://gpss.cc/gpss15"
 
 future: true
